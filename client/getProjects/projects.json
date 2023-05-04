@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Image Slider",
+    "text": "İlk Javascript projem. Javascript DOM öğrenmeye başladığım ilk gün yapmıştım. Yeri bende ayrıdır.",
+    "image": "/image-slider.jpg",
+    "alt":"image-slider",
+    "repository": "https://github.com/Clophy/Front-End-Learning/tree/master/50days50project/day1",
+    "live": "https://clophy.github.io/Front-End-Learning/50days50project/day1/"
+  },
+  {
+    "title": "Card Details",
+    "text": "İnteraktif kredi kart projesi, HTML - CSS - JS",
+    "image": "/card-details.jpg",
+    "alt":"card-details",
+    "repository": "https://github.com/Clophy/Front-End-Learning/tree/master/interactive-card-details-form-main",
+    "live": "https://clophy.github.io/Front-End-Learning/interactive-card-details-form-main/"
+  },
+  {
+    "title": "SignUp Page",
+    "text": "Hoş bir giriş sayfası, bir yere bir istek yollamıyor ancak javascript ile kullanıcı girişlerini kontrol ediyor. HTML - CSS - JS",
+    "image": "/signup.jpg",
+    "alt":"signup",
+    "repository": "https://github.com/Clophy/Front-End-Learning/tree/master/intro-component-with-signup-form-master",
+    "live": "https://clophy.github.io/Front-End-Learning/intro-component-with-signup-form-master/"
+  },
+  {
+    "title": "Time Tracking",
+    "text": "İlk nextJs deneyimim. Yaparken çok zevk aldım, tasarımı da gerçekten hoş",
+    "image": "/time-tracking.jpg",
+    "alt":"time-tracking",
+    "repository": "https://github.com/Clophy/front-end-mentor/tree/main/time-tracking",
+    "live": "https://front-end-mentor-delta.vercel.app/"
+  },
+  {
+    "title": "Product Page",
+    "text": "Gerçek bir proje yapıyor gibi hissettim, çok fazla şey var gibi geliyordu",
+    "image": "/product-page.jpg",
+    "alt":"product-page",
+    "repository": "https://github.com/Clophy/front-end-mentor2/tree/main/product-page",
+    "live": "https://product-page-steel.vercel.app/"
+  },
+  {
+    "title": "Country Api",
+    "text": "Tailwindcss dokümantasyonlarında gezerken, yapacağım ilk projeyi bununla yapmadan öğrenemem diyip bu projeye başladım ve tailwind ile yaptım. NEXT JS - TAILWINDCSS",
+    "image": "/countries-api.jpg",
+    "alt":"countries-api",
+    "repository": "https://github.com/Clophy/countries-front-end-mentor",
+    "live": "https://countries-front-end-mentor.vercel.app/"
+  }
+
+]

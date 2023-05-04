@@ -1,0 +1,77 @@
+.contain{
+    @apply
+    max-w-5xl
+    mx-auto
+    mt-24
+    flex
+    items-start
+    gap-4
+
+    lg:flex-row
+    flex-col
+}
+
+
+.photo{
+    @apply
+    rounded-full
+    overflow-hidden
+    shadow-lg
+    border-2
+    border-[#4D4D4D]
+    lg:mx-0
+    mx-auto
+}
+
+.info{
+@apply
+lg:w-1/2
+lg:p-0
+w-full
+p-8
+}
+
+.info h1{
+    @apply
+    text-7xl
+    font-bold
+}
+
+.info h2{
+    @apply
+    text-4xl
+    font-medium
+    mt-4
+}
+.paragraph{
+    @apply
+    mt-8
+    text-sm
+    font-bold
+}
+
+.links{
+    @apply
+    flex
+    items-center
+    border
+    text-6xl
+    gap-4
+    mt-4
+}
+.links div:hover{
+    @apply
+    text-[#61D0D4]
+    transition-colors
+    duration-700
+}
+
+.email{
+    @apply
+    bg-[#4D4D4D]
+    text-[#EAE5E5]
+    rounded-lg
+    text-5xl
+    p-1
+    cursor-pointer
+}

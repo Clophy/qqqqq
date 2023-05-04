@@ -1,0 +1,53 @@
+.contain{
+    @apply
+    flex
+    lg:flex-row
+    lg:justify-evenly
+    lg:w-full
+    lg:py-10
+
+    lg:mt-36
+    bg-[#6A041D]
+    flex-col
+    gap-4
+    justify-start
+    p-8
+
+
+}
+
+.icon{
+    @apply
+    bg-transparent
+    flex
+    items-center
+    gap-2
+    text-6xl
+    text-[#61D0D4]
+}
+
+.iconText{
+@apply
+bg-transparent
+flex
+flex-col
+
+}
+
+.iconText h3{
+    @apply
+    text-xl
+    text-white
+    font-bold
+}
+
+.iconText p{
+    @apply
+    text-base
+    text-white
+}
+
+.iconText .phone{
+    @apply
+    text-3xl
+}

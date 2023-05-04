@@ -1,0 +1,113 @@
+.contain{
+    @apply
+    lg:w-3/4
+    lg:mx-auto
+    lg:flex-wrap
+    lg:flex-row
+    lg:justify-between
+
+    w-full
+    flex
+    flex-col
+
+}
+.contain h1{
+    @apply
+    w-full
+    text-6xl
+    font-bold
+    mt-24
+}
+
+.leftSide{
+    @apply
+    lg:w-3/4
+    flex
+    flex-col-reverse
+    justify-end
+    mt-12
+    w-full
+}
+
+
+
+.blogPost{
+    @apply
+    border-b
+    border-black
+    flex
+    flex-col
+    p-4
+    gap-4
+
+    lg:flex-row
+    lg:items-start
+    lg:justify-between
+
+
+}
+.leftSide > div:last-child{
+    @apply
+    border-t
+    border-black
+}
+.title{
+    @apply
+    bg-[#E83556]
+    h-36
+    w-36
+    rounded-full
+    flex
+    items-center
+    justify-center
+    text-[#fff]
+    font-bold
+}
+.text{
+    @apply
+    w-4/5
+}
+
+.rightSide{
+    @apply
+    lg:w-1/4
+    mt-12
+    lg:pl-6
+    flex
+    lg:flex-col
+    flex-row
+    justify-evenly
+    w-full
+}
+
+.rightTitle{
+    @apply
+    flex
+    lg:items-center
+    items-start
+    gap-2
+    border-b
+    border-black
+    pb-2
+    lg:w-3/5
+}
+
+.icon{
+    @apply
+    bg-blue-400
+    text-white
+    rounded-full
+    p-2
+}
+
+.rightText{
+    @apply
+    font-bold
+}
+
+.skills{
+    @apply
+    mb-8
+    lg:text-left
+    text-center
+}

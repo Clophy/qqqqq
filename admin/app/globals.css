@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.home-input{
+    @apply
+    border
+    border-black
+    w-2/5
+    mx-auto
+    placeholder:text-white
+    p-4
+    
+}
+
+.home-label{
+    @apply
+    w-2/5
+    mx-auto
+    text-center
+    bg-red-300
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Merhaba Blog",
+    "text": "Merhabalar burası şu an için boş kalmak durumunda ileride burayı doldurmak niyetiyle şimdilik sadece bir merhaba ekliyorum..."
+  },
+  {
+    "title": "İlk işim",
+    "text": "Bu siteyi açmamdam çok kısa bir süre sonra ilk işime girdim. Tabiki site ile alakası yok, ancak insanlara gösterebileceğim kendimi sergileyebileceğim bir yer oldu. Proje bazlı çalışıyoruz ve ekipte 4 kişiyiz front-end tarafında 2. kişiyim. Daha doğrusu yardımcısıyım, henüz işe girmek için yeterli seviyedemiyim ya da değil miyim bilmiyorum ancak zaten patrona da anlattım bunu. O da kendimi geliştirmem için iyi bir fırsat olduğunu denemem gerektiğini söyledi. Henüz projeye dahil olmadım ancak bu yazıyı yazıyorum işte. İleride iş deneyimlerimle ilgili bir yazı yazarım buraya kesinlikle. Ayrıca işe girebilmek için neler yapılmalı ben nasıl iş buldum şeklinde anlatımlarımda olacak. Saygı ve sevgiyle.."
+  },
+  {
+    "title": "İşte ilk günler",
+    "text": "Merhabalar, Murphy kanunları sanırım gerçek. 1 aydır aktif şekilde iş arıyor ve başvurular yapıyordum ve kimseden biz sizi arayacağız dışında dönüş alamıyordum. Bu işe başladığım andan itibaren mailler gelmeye başladı, Mülakata falan çağırıyorlar :D Şimdilik yer değiştirmeyi düşünmüyorum ancak bakalım zaman bize ne gösterecek :)"
+  },
+  {
+    "title": "İşten Ayrılış",
+    "text": "Merhabalar, Öncelikle işten ayrıldım, kendimi geliştiremediğim bir ortam olduğuna inandığım ve mesai saatlerinden bunaldığım için yaptım bunu. Sadece css yazıyordum ve cidden saat olarak günün her saati her hangi bir hatayı çözmemi ya da tasarımda sürekli değişikliklere gitmem söyleniyordu ben de bu durumdan rahatsız oldum ve ayrılmaya karar verdim. Şimdilerde freelance işler kovalıyorum burayı okuyan benim gibi yazılım sektöründe yeni olan kişiler için önerim r10 formuna kayıt olun. BiOnluk, armut, upwork, fiver gibi sitelerde de kayıtlar açtım işler almaya çalıştım ama r10'da çok daha hızlı bir şekilde ilerliyor bu süreç. Örneğin biOnluktan ilk mesajımı almam 3 hafta sürmüşken r10'da 2.günümde ilk işimi aldım ve yaptım. Sizlere de tavsiye edebilirim freelance çalışmak isteyen arkadaşlar için güzel bir ortam."
+  },
+  {
+    "title": "Backend'e bakış",
+    "text": "Merhabalar, NodeJs öğrenmeye karar verdim. Kendi kafamda oluşturmak istediğim projeler için backend tarafı daha ağırlıklı basıyordu kendim istediğim gibi front ve backend taraflarını yapabildiğim yönetebildiği bir iş istiyorum ve backend öğrenmeye karar verdim. NodeJS tercih etme sebebim hali hazırda javascript'e hakim olmam. Geçişim çok daha kolay olacaktır diye düşünüyorum bakalım ileride belki backend projeler atarım githuba ve burada paylaşırım"
+  }
+]

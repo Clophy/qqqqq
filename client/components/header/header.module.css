@@ -1,0 +1,92 @@
+.header{
+    @apply
+    flex
+    justify-between
+    lg:w-2/4
+    lg:mx-auto
+    lg:items-end
+    lg:gap-4
+    lg:justify-start
+    p-4
+    items-center
+    lg:p-0
+}
+
+.name{
+    @apply
+    lg:text-4xl
+    text-3xl
+    font-bold
+}
+.title{
+    @apply
+    font-bold
+    text-lg
+}
+
+.navbar ul{
+    @apply
+    lg:flex
+    lg:gap-4
+    lg:font-bold
+  lg:text-gray-500
+    lg:text-sm
+    lg:bg-transparent
+    lg:flex-row
+    lg:relative
+    lg:w-min
+    lg:h-min
+    lg:opacity-100
+    lg:p-0
+
+    items-start
+    flex-col
+    absolute
+    w-full
+    h-screen
+    bg-gray-700
+    opacity-95
+    left-0
+    top-0
+    text-white
+    pt-24
+    gap-8
+
+}
+
+.navbar ul li{
+    @apply
+    lg:border-none
+    lg:w-min
+    lg:text-left
+    lg:mx-0
+    lg:text-base
+
+
+    border-b
+    border-white
+    w-3/4
+    text-center
+    mx-auto
+    text-xl
+    font-bold
+}
+
+
+
+.navbar .hamburger{
+    @apply
+    lg:hidden
+    text-3xl
+    bg-[#4D4D4D]
+    text-[#EAE5E5]
+     p-2
+     z-40
+
+}
+
+.navbar ul li:hover{
+    @apply
+    text-[#61D0D4]
+    transition
+}

@@ -1,0 +1,107 @@
+
+.contain{
+    @apply
+    flex
+    flex-col-reverse
+}
+.project{
+    @apply
+    lg:w-3/4
+    lg:mx-auto
+    lg:flex-wrap
+    lg:flex-row
+    lg:justify-between
+    border-b
+    border-black
+    items-center
+    justify-center
+    w-full
+    flex
+    flex-col-reverse
+    p-4
+}
+.h1{
+    @apply
+    mt-12
+    text-6xl
+    font-bold
+    w-3/4
+    mx-auto
+}
+
+.leftSide{
+    @apply
+    lg:w-2/4
+    w-full
+}
+.blogPost{
+    @apply
+    
+    flex
+    flex-col
+    justify-center
+    items-center
+    p-4
+    gap-4
+    
+    lg:items-start
+    lg:justify-between
+
+}
+.title{
+    @apply
+    bg-[#E83556]
+    h-36
+    w-36
+    rounded-full
+    flex
+    items-center
+    justify-center
+    text-[#fff]
+    font-bold
+}
+
+.titlex{
+    @apply
+    bg-[#61cccc]
+    p-2
+    rounded-full
+    flex
+    items-center
+    justify-center
+    text-[#fff]
+    font-bold
+}
+.titley{
+    @apply
+    bg-[#D1C926]
+    p-2
+    rounded-full
+    flex
+    items-center
+    justify-center
+    text-[#fff]
+    font-bold
+}
+.text{
+    @apply
+    w-4/5
+}
+
+.rightSide{
+    @apply
+    lg:w-2/4
+    mt-12
+    lg:pl-6
+    flex
+    lg:flex-col
+    flex-row
+    justify-evenly
+    w-full
+}
+
+.links{
+    @apply
+    flex
+    gap-4
+}
